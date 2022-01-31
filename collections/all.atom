@@ -1,0 +1,2463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ilytmi.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ilytmi.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ilytmi.com/collections/all.atom"/>
+  <title>Lytmi</title>
+  <updated>2021-12-21T16:55:02+08:00</updated>
+  <author>
+    <name>Lytmi</name>
+  </author>
+  <entry>
+    <id>https://ilytmi.com/products/7430666780922</id>
+    <published>2021-12-21T16:55:02+08:00</published>
+    <updated>2021-12-21T16:55:02+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ilytmi.com/products/lightstrip"/>
+    <title>Lytmi Lightstrip - Neo Box Required</title>
+    <s:type></s:type>
+    <s:vendor>2021lightmi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0586/8273/6817/products/1-960-720.jpg?v=1639556357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>2021lightmi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            69.00 - 119.00
+            <a href="https://ilytmi.com/products/lightstrip">(15 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="section-component master-component theme--grey">
+<section class="section-cmp">
+<div class="section-component__container container spacing-responsive-2--padding-top">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="headline-component master-component">
+<div class="headline-component-wrapper">
+<div class="headline headline-h1-default">
+<h1 class="title heading-2">Next level of TV backlights</h1>
+<div class="headline__description rich-text-content">
+<p>This advanced backlights can sync with TV, gaming consoles or other HDMI devices and display their color.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<div class="section-component master-component theme--grey">
+<section id="features" class="" style="background-image: none;">
+<div data-observer-top="features"></div>
+<div class="section-component__container--fluid container--fluid spacing-responsive-0--padding no-gutter">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="story-banner-component master-component">
+<div class="story-banner">
+<div class="story-banner__content story-banner--left story-banner__content--height-large background-position--50-70 lazyloaded" style="background-image: url('https://cdn.shopify.com/s/files/1/0586/8273/6817/files/7-2000-660.jpg?v=1640073959');"></div>
+</div>
+</div>
+</div>
+</div>
+<div data-observer-bottom="features"></div>
+</section>
+</div>
+<!--轮播-->
+<div class="section-component master-component theme--white-white">
+<section class="">
+<div class="section-component__container--fluid container--fluid spacing-responsive-0--padding no-gutter">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="product-benefits-component master-component">
+<div>
+<div class="product-benefits">
+<div class="background-image-element product-benefits__background-image background-image-element--large background-position--50-50 background-position-mobile--50-50 product-benefits__background-image--active lazyloaded" style="background-image: url('https://cdn.shopify.com/s/files/1/0586/8273/6817/files/10-2000-580_268c5417-255f-49a9-9609-fa2dec9017f4.jpg?v=1640074057');"></div>
+<div class="background-image-element product-benefits__background-image background-image-element--large background-position--50-50 background-position-mobile--70-50 lazyloaded" style="background-image: url('https://cdn.shopify.com/s/files/1/0586/8273/6817/files/9-2000-580_47ea4772-5958-4cce-80b6-7c707a685d65.jpg?v=1640074111');"></div>
+<div class="background-image-element product-benefits__background-image background-image-element--large background-position--100-80 background-position-mobile--70-50 lazyloaded" style="background-image: url('https://cdn.shopify.com/s/files/1/0586/8273/6817/files/8-2000-580_d4107858-b696-46f7-b9d4-b59fe95ad816.jpg?v=1640074156');"></div>
+<div class="product-benefits__content container">
+<h1 class="product-benefits__title"></h1>
+<div class="product-benefits__benefits row">
+<div class="product-benefit col-sm-4">
+<h5 class="product-benefit__title">Make lights beat with music</h5>
+<div class="product-benefit__description" style="height: auto;">
+<p>Lets you create immersive lights shows that seamlessly follow the beats.</p>
+</div>
+</div>
+<div class="product-benefit col-sm-4 product-benefit--hidden product-benefit--hover">
+<h5 class="product-benefit__title">Transform your gaming setup</h5>
+<div class="product-benefit__description" style="height: auto; display: none;">
+<p>Build an immersive gaming experience, every effects will be amplified.</p>
+</div>
+</div>
+<div class="product-benefit col-sm-4 product-benefit--hidden product-benefit--hover">
+<h5 class="product-benefit__title">Lighting for movie</h5>
+<div class="product-benefit__description" style="height: auto; display: none;">
+<p>Sync smart lights with TV makes an immersive viewing experience.</p>
+</div>
+</div>
+<div class="col-4">
+<div class="progress-bar-component">
+<div class="progress-bar progress-bar--active">
+<div class="progress-bar__bar"></div>
+</div>
+</div>
+</div>
+<div class="col-4">
+<div class="progress-bar-component">
+<div class="progress-bar">
+<div class="progress-bar__bar"></div>
+</div>
+</div>
+</div>
+<div class="col-4">
+<div class="progress-bar-component">
+<div class="progress-bar">
+<div class="progress-bar__bar"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!--end 轮播-->
+<div class="section-component master-component theme--grey">
+<section class="">
+<div class="section-component__container container spacing-responsive-0--padding">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="alternating-content-block-component master-component">
+<div class="alternating-content-block">
+<div class="alternating-content-block__block alternating-content-block__block--2 row">
+<div class="alternating-content-block__card col-11 col-sm-12 col-md-10">
+<h1 class="alternating-content-block__card-title heading-5--">Super Bright</h1>
+<div class="alternating-content-block__card-desc body-copy-1">
+<p>The brightness of each lightstrip up to 3400lm.</p>
+</div>
+<div class="alternating-content-block__card-image-wrap"><picture> <!-- [if IE 9]>
+											<video style="display: none">
+											</video><![endif]--> <!-- [if IE 9]>
+											
+										<![endif]--> <img src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/11-454-454.jpg?v=1640074200" class="alternating-content-block__card-image lazyautosizes lazyloaded" sizes="453px"> </picture></div>
+</div>
+</div>
+<div class="alternating-content-block__block alternating-content-block__block--4 row">
+<div class="alternating-content-block__card col-11 col-sm-12 col-md-10">
+<h1 class="alternating-content-block__card-title heading-5--">Easy to install</h1>
+<div class="alternating-content-block__card-desc body-copy-1">
+<p>4 corner brackets and 6 parallel brackets included, make it easy to attach to the back of screen.</p>
+</div>
+<div class="alternating-content-block__card-image-wrap"><picture> <!-- [if IE 9]>
+											<video style="display: none">
+											</video><![endif]--> <!-- [if IE 9]>
+											
+										<![endif]--> <img src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/13-454-454_5955285d-bcd2-46dc-98ac-20a4debc3d57.jpg?v=1640074277" class="alternating-content-block__card-image lazyautosizes lazyloaded" sizes="453px"> </picture></div>
+</div>
+</div>
+<div class="alternating-content-block__block alternating-content-block__block--1 row m-display-none">
+<div class="alternating-content-block__header col-12 col-md-10">
+<h2 class="alternating-content-block__header-title heading-2"></h2>
+<div class="alternating-content-block__header-desc body-copy-1">
+<p>.</p>
+</div>
+</div>
+</div>
+<div class="alternating-content-block__block alternating-content-block__block--3 row">
+<div class="alternating-content-block__card col-11 col-sm-12 col-md-10">
+<h1 class="alternating-content-block__card-title heading-5--">Fit Any Size</h1>
+<div class="alternating-content-block__card-desc body-copy-1">
+<p>The lightstrip comes in three size, fit up to 120 inch screen.</p>
+</div>
+<div class="alternating-content-block__card-image-wrap"><picture> <!-- [if IE 9]>
+											<video style="display: none">
+											</video><![endif]--> <!-- [if IE 9]>
+											
+										<![endif]--> <img src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/12-454-454.jpg?v=1640074235" class="alternating-content-block__card-image lazyautosizes lazyloaded" sizes="453px"> </picture></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!--end 块1-->
+<div class="section-component master-component theme--grey">
+<section class="">
+<div class="section-component__container container spacing-responsive-2--padding">
+<div>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="story-component master-component">
+<div class="story spacing-responsive-2 story--right story--image-center story--image-top-mobile">
+<div class="container">
+<div class="row">
+<div class="col-12 col-sm-6 story__image-wrapper">
+<div class="parallax__pin"><picture class="story__picture"> <img src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/14-454-454ARGB.jpg?v=1640074309" class="story__image img-responsive lazyautosizes lazyloaded" sizes="534px"> </picture></div>
+</div>
+<div class="story__text-wrapper col-12 col-sm-5 offset-sm-1">
+<div class="story__headline headline headline-h2-default">
+<h1 class="headline__title heading-2">ARGB Control</h1>
+</div>
+<div class="story__description rich-text-content">
+<p>Each RGB LED (or segment/block of RGB LEDs) can display a different colour and intensity than its neighbors.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="story-component master-component">
+<div class="story spacing-responsive-2 story--left story--image-center story--image-top-mobile">
+<div class="container">
+<div class="row">
+<div class="col-12 col-sm-6 offset-sm-1 order-sm-last story__image-wrapper">
+<div class="parallax__pin"><picture class="story__picture"> <img src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/16-454-454_63cd1014-ac7c-4e07-8927-650ff097383e.jpg?v=1640074387" class="story__image img-responsive lazyautosizes lazyloaded" sizes="534px"> </picture></div>
+</div>
+<div class="story__text-wrapper col-12 col-sm-5 order-sm-first">
+<div class="story__headline headline headline-h2-default">
+<h1 class="headline__title heading-2">Accurate Color Reproduction</h1>
+</div>
+<div class="story__description rich-text-content">
+<p>Hardware auto adaptive support for accurate colors reproduction, hardly can any colors and effects misproduction be seen.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="story-component master-component">
+<div class="story spacing-responsive-2 story--right story--image-center story--image-top-mobile">
+<div class="container">
+<div class="row">
+<div class="col-12 col-sm-6 story__image-wrapper">
+<div class="parallax__pin"><picture class="story__picture"> <img src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/15-454-454_3cb954fc-2c3b-4cff-bcee-38b9e20ed65b.jpg?v=1640074347" class="story__image img-responsive lazyautosizes lazyloaded" sizes="534px"> </picture></div>
+</div>
+<div class="story__text-wrapper col-12 col-sm-5 offset-sm-1">
+<div class="story__headline headline headline-h2-default">
+<h1 class="headline__title heading-2">Cuttable Design</h1>
+</div>
+<div class="story__description rich-text-content">
+<p>The LED lightstrips can be easily cut, you can customize the length of lights to fit your screen better.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!--end块2-->
+<div class="section-component master-component theme--grey">
+<section class="">
+<div class="section-component__container container spacing-responsive-2--padding">
+<div>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="whats-in-the-box-component master-component">
+<div class="row whats-in-the-box">
+<div class="col-12 col-sm-5 whats-in-the-box__content">
+<div>
+<h1 class="heading-2">Perfect aligned with the box</h1>
+<p>Use Lytmi App to control your lightstrips and custom your unique lightning experience.</p>
+</div>
+</div>
+<div class="col-12 col-sm-6"><picture> <img src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/17-454-454.jpg?v=1640074442" class="whats-in-the-box__image lazyautosizes ls-is-cached lazyloaded" sizes="543px"> </picture></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!--end块2-->
+<div class="section-component master-component theme--grey">
+<section class="">
+<div class="section-component__container container spacing-responsive-2--padding">
+<div>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="whats-in-the-box-component master-component">
+<div class="row whats-in-the-box">
+<div class="col-12 col-sm-5 whats-in-the-box__content">
+<div>
+<h1 class="heading-2">What's in the box?</h1>
+<p>2 x Light Strip Coils</p>
+<p> </p>
+<p>6 x Fixing Brackets</p>
+</div>
+</div>
+<div class="col-12 col-sm-6"><picture> <img src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/18-454-454_a161c68b-0a3f-4e68-8796-a35233eb5841.jpg?v=1640074476" class="whats-in-the-box__image lazyautosizes ls-is-cached lazyloaded" sizes="543px"> </picture></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!--end块3-->
+<div class="section-component master-component theme--white-white">
+<section class="section-cmp">
+<div class="section-component__container container spacing-responsive-2--padding-top">
+<div>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="title-component master-component title-component--styles-center">
+<h1 class="title heading-1">Expand Your Smart Home with Neo</h1>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!--下面的轮播-->
+<div class="section-component master-component theme--white-white">
+<section class="">
+<div class="section-component__container--fluid container--fluid spacing-responsive-2--padding-top no-gutter">
+<div>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="carousel-component carousel">
+<div>
+<div class="swiper-container carousel">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<div class="hotspot-slide-component master-component">
+<div class="slide">
+<div class="hotspot-slide">
+<picture class="hotspot-slide__picture"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/1680-944.2_94449626-5559-4d0e-bc39-5d3d3db65e70.jpg" media="(min-width: 1281px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/1280-719.2_c84baeca-1123-46e2-a552-470576797cba.jpg" media="(min-width: 1025px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/1024-575-2_2f2584f6-10c3-4fa9-9698-697334c8c38d.jpg" media="(min-width: 769px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/768-431-2_56255782-bab8-435f-867a-13af1f05a494.jpg" media="(min-width: 601px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/600-800-2_6084dc63-b1f2-499b-893e-e4ffe18833ad.jpg" media="(min-width: 401px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/400-533-2_d028c052-64b3-46ab-8fc9-c5e207113f68.jpg" media="(max-width: 400px)"> <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Hotspot tv desert" class="hotspot-slide__image"></source></source></source></picture>
+<div class="hotspot-slide__area">
+<div>
+<div class="hotspot hotspot--l" style="top: 76%; left: 99%;">
+<div class="hotspot__dot">
+<p class="hotspot__text body-copy-1 hotspot__text--top-left"><span> Want to control your Neo box with your smartphone? Install Lytmi App to and set it up to your Neo box. </span></p>
+</div>
+</div>
+</div>
+<div>
+<div class="hotspot hotspot--s" style="top: 60%; left: 70%;">
+<div class="hotspot__dot">
+<p class="hotspot__text body-copy-1 hotspot__text--top-left"><span> Want to control your Neo box with your smartphone? Install Lytmi App to and set it up to your Neo box. </span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="hotspot-slide-component master-component">
+<div class="slide">
+<div class="hotspot-slide">
+<picture class="hotspot-slide__picture"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/1680-944.1_11bc243a-86c6-4b71-a055-9ee2c5d1560c.jpg" media="(min-width: 1281px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/1280-719.1_cdccaea8-6f24-41f1-bd4b-bb1ad6258a66.jpg" media="(min-width: 1025px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/1024-575-1_a7e60b7f-3073-4321-9744-b006a0f1f61a.jpg" media="(min-width: 769px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/768-431-1_da91ddf7-a62d-4fae-ae62-fe141a61aada.jpg" media="(min-width: 601px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/600-800-1_928c787c-8002-4115-8223-49a5ab240161.jpg" media="(min-width: 401px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/400-533-1_e50765a6-0ea4-4ee6-9cb3-b4f58b0412b1.jpg" media="(max-width: 400px)"> <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Hotspot tv desert" class="hotspot-slide__image"></source></source></source></picture>
+<div class="hotspot-slide__area">
+<div>
+<div class="hotspot hotspot--l" style="top: 76%; left: 99%;">
+<div class="hotspot__dot">
+<p class="hotspot__text body-copy-1 hotspot__text--top-left"><span> Want to control your Neo box with your smartphone? Install Lytmi App to and set it up to your Neo box. </span></p>
+</div>
+</div>
+</div>
+<div>
+<div class="hotspot hotspot--s" style="top: 60%; left: 70%;">
+<div class="hotspot__dot">
+<p class="hotspot__text body-copy-1 hotspot__text--top-left"><span> Want to control your Neo box with your smartphone? Install Lytmi App to and set it up to your Neo box. </span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-pagination"></div>
+<div class="swiper-button swiper-button--prev"><svg class="icon icon-leftwards icon--lg" viewbox="0 0 32 32"> <path d="M10.293,15.293 L14.293,11.293 C14.488,11.098 14.744,11 15,11 C15.256,11 15.512,11.098 15.707,11.293 C16.098,11.684 16.098,12.316 15.707,12.707 L13.414,15 L21,15 C21.553,15 22,15.447 22,16 C22,16.553 21.553,17 21,17 L13.414,17 L15.707,19.293 C16.098,19.684 16.098,20.316 15.707,20.707 C15.316,21.098 14.684,21.098 14.293,20.707 L10.293,16.707 C9.902,16.316 9.902,15.684 10.293,15.293 M16,28 C22.627,28 28,22.627 28,16 C28,9.373 22.627,4 16,4 C9.373,4 4,9.373 4,16 C4,22.627 9.373,28 16,28"> </path> </svg></div>
+<div class="swiper-button swiper-button--next"><svg class="icon icon-rightwards icon--lg" viewbox="0 0 32 32"> <path xmlns="http://www.w3.org/2000/svg" d="M21.707,16.707 L17.707,20.707 C17.512,20.902 17.256,21 17,21 C16.744,21 16.488,20.902 16.293,20.707 C15.902,20.316 15.902,19.684 16.293,19.293 L18.586,17 L11,17 C10.447,17 10,16.553 10,16 C10,15.447 10.447,15 11,15 L18.586,15 L16.293,12.707 C15.902,12.316 15.902,11.684 16.293,11.293 C16.684,10.902 17.316,10.902 17.707,11.293 L21.707,15.293 C22.098,15.684 22.098,16.316 21.707,16.707 M16,4 C9.373,4 4,9.373 4,16 C4,22.627 9.373,28 16,28 C22.627,28 28,22.627 28,16 C28,9.373 22.627,4 16,4"></path> </svg></div>
+<span class="swiper-notification" aria-live="assertive" aria-atomic="true"> </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!----end下面的轮播--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://ilytmi.com/products/7430666780922</id>
+      <title>For 65 inch and below / US</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>LDD12-D01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7430666780922</id>
+      <title>For 65 inch and below / EU (VAT Included)</title>
+      <s:price currency="USD">83.00</s:price>
+      <s:sku>LDD12-D01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7430666780922</id>
+      <title>For 65 inch and below / UK (VAT Included)</title>
+      <s:price currency="USD">83.00</s:price>
+      <s:sku>LDD12-D01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7430666780922</id>
+      <title>For 65 inch and below / AU</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>LDD12-D01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7430666780922</id>
+      <title>For 65 inch and below / Rest of the world</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>LDD12-D01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7430666780922</id>
+      <title>For 66-90 inch / US</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku>LDD12-D02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7430666780922</id>
+      <title>For 66-90 inch / EU (VAT Included)</title>
+      <s:price currency="USD">107.00</s:price>
+      <s:sku>LDD12-D02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7430666780922</id>
+      <title>For 66-90 inch / UK (VAT Included)</title>
+      <s:price currency="USD">107.00</s:price>
+      <s:sku>LDD12-D02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7430666780922</id>
+      <title>For 66-90 inch / AU</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku>LDD12-D02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7430666780922</id>
+      <title>For 66-90 inch / Rest of the world</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku>LDD12-D02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7430666780922</id>
+      <title>For 91-120 inch / US</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>LDD12-D03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7430666780922</id>
+      <title>For 91-120 inch / EU (VAT Included)</title>
+      <s:price currency="USD">119.00</s:price>
+      <s:sku>LDD12-D03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7430666780922</id>
+      <title>For 91-120 inch / UK (VAT Included)</title>
+      <s:price currency="USD">119.00</s:price>
+      <s:sku>LDD12-D03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7430666780922</id>
+      <title>For 91-120 inch / AU</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>LDD12-D03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7430666780922</id>
+      <title>For 91-120 inch / Rest of the world</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>LDD12-D03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ilytmi.com/products/7492103176442</id>
+    <published>2021-12-13T16:03:40+08:00</published>
+    <updated>2021-12-13T16:03:40+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ilytmi.com/products/make-up-price-link"/>
+    <title>Make up price Link</title>
+    <s:type></s:type>
+    <s:vendor>Lytmi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0586/8273/6817/products/TV.png?v=1639382612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lytmi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            45.00 - 68.00
+            <a href="https://ilytmi.com/products/make-up-price-link">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ONLY for making up the different price among countries.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://ilytmi.com/products/7492103176442</id>
+      <title>60 inch and below / Europe</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7492103176442</id>
+      <title>60 inch and below / UK</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7492103176442</id>
+      <title>61-90 inch / Europe</title>
+      <s:price currency="USD">47.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7492103176442</id>
+      <title>61-90 inch / UK</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7492103176442</id>
+      <title>91-120 inch / Europe</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7492103176442</id>
+      <title>91-120 inch / UK</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ilytmi.com/products/7463022887162</id>
+    <published>2021-11-25T19:04:34+08:00</published>
+    <updated>2021-11-25T19:04:34+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ilytmi.com/products/screen-strip-light"/>
+    <title>Screen Strip Light for Windows PC</title>
+    <s:type></s:type>
+    <s:vendor>2021lightmi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0586/8273/6817/products/1_1_2849342d-b28c-4a1d-bf35-c485bb646c5f.jpg?v=1639990718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>2021lightmi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            69.99 - 118.30
+            <a href="https://ilytmi.com/products/screen-strip-light">(15 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="section-component master-component theme--grey">
+<section class="section-cmp">
+<div class="section-component__container container spacing-responsive-2--padding-top">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="headline-component master-component">
+<div class="headline-component-wrapper">
+<div class="headline headline-h1-default">
+<h1 class="title heading-2">Ambient Lighting System</h1>
+<div class="headline__description rich-text-content">
+<p>Brings you the immersive experience.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<div class="section-component master-component theme--grey">
+<section style="background-image: none;" class="" id="features">
+<div data-observer-top="features"></div>
+<div class="section-component__container--fluid container--fluid spacing-responsive-0--padding no-gutter">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="story-banner-component master-component">
+<div class="story-banner">
+<div style="background-image: url('https://cdn.shopify.com/s/files/1/0586/8273/6817/files/7-2000-600_b002d737-58aa-4617-bdb9-357330f83b2c.jpg?v=1638954070');" class="story-banner__content story-banner--left story-banner__content--height-large background-position--50-70 lazyloaded"></div>
+</div>
+</div>
+</div>
+</div>
+<div data-observer-bottom="features"></div>
+</section>
+</div>
+<!--轮播-->
+<div class="section-component master-component theme--white-white">
+<section class="">
+<div class="section-component__container--fluid container--fluid spacing-responsive-0--padding no-gutter">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="product-benefits-component master-component">
+<div>
+<div class="product-benefits">
+<div style="background-image: url('https://cdn.shopify.com/s/files/1/0586/8273/6817/files/8-2000-580.jpg?v=1637821207');" class="background-image-element product-benefits__background-image background-image-element--large background-position--50-50 background-position-mobile--50-50 product-benefits__background-image--active lazyloaded"></div>
+<div style="background-image: url('https://cdn.shopify.com/s/files/1/0586/8273/6817/files/10-2000-580.jpg?v=1637821207');" class="background-image-element product-benefits__background-image background-image-element--large background-position--50-50 background-position-mobile--70-50 lazyloaded"></div>
+<div style="background-image: url('https://cdn.shopify.com/s/files/1/0586/8273/6817/files/9-2000-580.jpg?v=1637821207');" class="background-image-element product-benefits__background-image background-image-element--large background-position--100-80 background-position-mobile--70-50 lazyloaded"></div>
+<div class="product-benefits__content container">
+<h1 class="product-benefits__title"></h1>
+<div class="product-benefits__benefits row">
+<div class="product-benefit col-sm-4">
+<h5 class="product-benefit__title">Immersive gaming experience</h5>
+<div style="height: auto;" class="product-benefit__description">
+<p>An easy way to enhance your gaming experience, increase the anxiety of chasing, amplify every action effects.</p>
+</div>
+</div>
+<div class="product-benefit col-sm-4 product-benefit--hidden product-benefit--hover">
+<h5 class="product-benefit__title">Music &amp; Mic sync</h5>
+<div style="height: auto; display: none;" class="product-benefit__description">
+<p>Lighting color will change with the music beats, hands claps, or gaming sounds through built-in microphone.</p>
+</div>
+</div>
+<div class="product-benefit col-sm-4 product-benefit--hidden product-benefit--hover">
+<h5 class="product-benefit__title">Gaming setup upgrades</h5>
+<div style="height: auto; display: none;" class="product-benefit__description">
+<p>Capture the color on your screen and apply them on lightstrips, it is an amazing game room design idea.</p>
+</div>
+</div>
+<div class="col-4">
+<div class="progress-bar-component">
+<div class="progress-bar progress-bar--active">
+<div class="progress-bar__bar"></div>
+</div>
+</div>
+</div>
+<div class="col-4">
+<div class="progress-bar-component">
+<div class="progress-bar">
+<div class="progress-bar__bar"></div>
+</div>
+</div>
+</div>
+<div class="col-4">
+<div class="progress-bar-component">
+<div class="progress-bar">
+<div class="progress-bar__bar"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!--end 轮播-->
+<div class="section-component master-component theme--grey">
+<section class="">
+<div class="section-component__container container spacing-responsive-0--padding">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="alternating-content-block-component master-component">
+<div class="alternating-content-block">
+<div class="alternating-content-block__block alternating-content-block__block--2 row">
+<div class="alternating-content-block__card col-11 col-sm-12 col-md-10">
+<h1 class="alternating-content-block__card-title heading-5--">Fit a wide range of size</h1>
+<div class="alternating-content-block__card-desc body-copy-1">
+<p>Lytmi software has auto calibration function, support 17-55 inch monitors, including: modern standard (16:9), old standard (4:3), ultrawide (21:9), superwide (32:9).</p>
+</div>
+<div class="alternating-content-block__card-image-wrap"><picture> <!-- [if IE 9]>
+											<video style="display: none">
+											</video><![endif]--> <!-- [if IE 9]>
+											
+										<![endif]--> <img sizes="453px" class="alternating-content-block__card-image lazyautosizes lazyloaded" src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/454-454_652de8fb-71a3-4f57-8adf-bdc432de6eb4.jpg?v=1638954070"> </picture></div>
+</div>
+</div>
+<div class="alternating-content-block__block alternating-content-block__block--4 row">
+<div class="alternating-content-block__card col-11 col-sm-12 col-md-10">
+<h1 class="alternating-content-block__card-title heading-5--">Neon strip light</h1>
+<div class="alternating-content-block__card-desc body-copy-1">
+<p>The strip light equipped with ARGB LEDs to ensure the high accuracy in reproduction. Silicone cover to make it hard to be damaged and enable a large illuminated area.</p>
+</div>
+<div class="alternating-content-block__card-image-wrap"><picture> <!-- [if IE 9]>
+											<video style="display: none">
+											</video><![endif]--> <!-- [if IE 9]>
+											
+										<![endif]--> <img sizes="453px" class="alternating-content-block__card-image lazyautosizes lazyloaded" src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/454-454-ARGB.jpg?v=1638954070"> </picture></div>
+</div>
+</div>
+<div class="alternating-content-block__block alternating-content-block__block--1 row m-display-none">
+<div class="alternating-content-block__header col-12 col-md-10">
+<h2 class="alternating-content-block__header-title heading-2"></h2>
+<div class="alternating-content-block__header-desc body-copy-1">
+<p> </p>
+</div>
+</div>
+</div>
+<div class="alternating-content-block__block alternating-content-block__block--3 row">
+<div class="alternating-content-block__card col-11 col-sm-12 col-md-10">
+<h1 class="alternating-content-block__card-title heading-5--">High accuracy in reproduction</h1>
+<div class="alternating-content-block__card-desc body-copy-1">
+<p>Lytmi can detective the color on screen and apply them on ARGB light strips result in high accuracy color reproduction.</p>
+</div>
+<div class="alternating-content-block__card-image-wrap"><picture> <!-- [if IE 9]>
+											<video style="display: none">
+											</video><![endif]--> <!-- [if IE 9]>
+											
+										<![endif]--> <img sizes="453px" class="alternating-content-block__card-image lazyautosizes lazyloaded" src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/454-454_91edc08a-8cbe-4549-bb78-994a33db54ad.jpg?v=1638954070"> </picture></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!--end 块1-->
+<div class="section-component master-component theme--grey">
+<section class="">
+<div class="section-component__container container spacing-responsive-2--padding">
+<div>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="story-component master-component">
+<div class="story spacing-responsive-2 story--right story--image-center story--image-top-mobile">
+<div class="container">
+<div class="row">
+<div class="col-12 col-sm-6 story__image-wrapper">
+<div class="parallax__pin"><picture class="story__picture"> <img sizes="534px" class="story__image img-responsive lazyautosizes lazyloaded" src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/454.jpg?v=1639546152"> </picture></div>
+</div>
+<div class="story__text-wrapper col-12 col-sm-5 offset-sm-1">
+<div class="story__headline headline headline-h2-default">
+<h1 class="headline__title heading-2">Support multiple-monitor</h1>
+</div>
+<div class="story__description rich-text-content">
+<p>Open the desktop software multiple times to achieve multi-screen synchronization. (Note: each screen requires one set of lights)</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="story-component master-component">
+<div class="story spacing-responsive-2 story--left story--image-center story--image-top-mobile">
+<div class="container">
+<div class="row">
+<div class="col-12 col-sm-6 offset-sm-1 order-sm-last story__image-wrapper">
+<div class="parallax__pin"><picture class="story__picture"> <img sizes="534px" class="story__image img-responsive lazyautosizes lazyloaded" src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/454-454_f47f4e30-5ffe-4455-bd23-d838a6b6f25f.jpg?v=1638954070"> </picture></div>
+</div>
+<div class="story__text-wrapper col-12 col-sm-5 order-sm-first">
+<div class="story__headline headline headline-h2-default">
+<h1 class="headline__title heading-2">Multiple preset scene mode</h1>
+</div>
+<div class="story__description rich-text-content">
+<p>Lytmi software includes 3 sync modes, 3 music modes (spectrum, electronic, and lyricism) and 12 scene modes like rainbow, fire, star, swing and etc.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="story-component master-component">
+<div class="story spacing-responsive-2 story--right story--image-center story--image-top-mobile">
+<div class="container">
+<div class="row">
+<div class="col-12 col-sm-6 story__image-wrapper">
+<div class="parallax__pin"><picture class="story__picture"> <img sizes="534px" class="story__image img-responsive lazyautosizes lazyloaded" src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/454-454_a0e816d6-cfc4-43b6-9eb1-2afb4d315b53.jpg?v=1638954070"> </picture></div>
+</div>
+<div class="story__text-wrapper col-12 col-sm-5 offset-sm-1">
+<div class="story__headline headline headline-h2-default">
+<h1 class="headline__title heading-2">Easy to control</h1>
+</div>
+<div class="story__description rich-text-content">
+<p>Except for controlled by software, strip lights can also controlled by a control box which can be used to turn on and off the strip lights and change different modes.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="story-component master-component">
+<div class="story spacing-responsive-2 story--left story--image-center story--image-top-mobile">
+<div class="container">
+<div class="row">
+<div class="col-12 col-sm-6 offset-sm-1 order-sm-last story__image-wrapper">
+<div class="parallax__pin"><picture class="story__picture"> <img sizes="534px" class="story__image img-responsive lazyautosizes lazyloaded" src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/2_d208edd8-4f04-45f4-a4ac-7e1f2abffb39.jpg?v=1639546152"> </picture></div>
+</div>
+<div class="story__text-wrapper col-12 col-sm-5 order-sm-first">
+<div class="story__headline headline headline-h2-default">
+<h1 class="headline__title heading-2">Relieve eye pressure</h1>
+</div>
+<div class="story__description rich-text-content">
+<p>Reduce eye strain when watching monitors at night with back lighting.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!--end块2-->
+<div class="section-component master-component theme--grey">
+<section class="">
+<div class="section-component__container container spacing-responsive-2--padding">
+<div>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="whats-in-the-box-component master-component">
+<div class="row whats-in-the-box">
+<div class="col-12 col-sm-5 whats-in-the-box__content">
+<div>
+<h1 class="heading-2">What's in the box?</h1>
+<p>1 x Controller</p>
+<p> </p>
+<p>1 x LED Strips Roll</p>
+<p> </p>
+<p>1 x AC Power Adapter</p>
+<p> </p>
+<p>2 x Corner mounting brackets</p>
+<p> </p>
+<p>6 x Adhesive mounting clips</p>
+</div>
+</div>
+<div class="col-12 col-sm-6"><picture> <img sizes="543px" class="whats-in-the-box__image lazyautosizes ls-is-cached lazyloaded" src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/454_91914683-1e77-4713-a093-a926385ffe40.jpg?v=1640157381"> </picture></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!--end块3-->
+<div class="section-component master-component theme--white-white">
+<section class="section-cmp">
+<div class="section-component__container container spacing-responsive-2--padding-top">
+<div>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="title-component master-component title-component--styles-center">
+<h1 class="title heading-1">Desktop Lighting System</h1>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!--下面的轮播-->
+<div class="section-component master-component theme--white-white">
+<section class="">
+<div class="section-component__container--fluid container--fluid spacing-responsive-2--padding-top no-gutter">
+<div>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="carousel-component carousel">
+<div>
+<div class="swiper-container carousel">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<div class="hotspot-slide-component master-component">
+<div class="slide">
+<div class="hotspot-slide">
+<picture class="hotspot-slide__picture"> <source media="(min-width: 1281px)" srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/1680-944.1_8bcdbf91-69cf-423d-9602-f596dc640881.jpg?v=1639019894"> <source media="(min-width: 1025px)" srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/1280-719.1_adc01c7f-7baf-48a3-be89-0f687a469a98.jpg?v=1639019894"> <source media="(min-width: 769px)" srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/1024-575-1_f530a33b-4745-4b32-9c32-a68daa174d32.jpg?v=1639019894"> <source media="(min-width: 601px)" srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/768-431-1_8cec56c3-df46-45f9-93db-25242edcd874.jpg?v=1639019893"> <source media="(min-width: 401px)" srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/600-800-1_e34f4fa1-3fa0-4648-9293-b3305935c485.jpg?v=1639019894"> <source media="(max-width: 400px)" srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/400-533-1_f5ccccb2-ed24-44cd-8685-51d372af0b87.jpg?v=1639019893"> <img class="hotspot-slide__image" alt="Hotspot tv desert" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></source></source></source></picture>
+<div class="hotspot-slide__area">
+<div>
+<div style="top: 76%; left: 99%;" class="hotspot hotspot--l">
+<div class="hotspot__dot">
+<p class="hotspot__text body-copy-1 hotspot__text--top-left"><span> Ltymi unlocks new immersive gaming experience. </span></p>
+</div>
+</div>
+</div>
+<div>
+<div style="top: 60%; left: 70%;" class="hotspot hotspot--s">
+<div class="hotspot__dot">
+<p class="hotspot__text body-copy-1 hotspot__text--top-left"><span> Ltymi unlocks new immersive gaming experience. </span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="hotspot-slide-component master-component">
+<div class="slide">
+<div class="hotspot-slide">
+<picture class="hotspot-slide__picture"> <source media="(min-width: 1281px)" srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/1680-944.2_4760648c-be4f-4f69-8bbe-d2b7f7f0262b.jpg?v=1639020103"> <source media="(min-width: 1025px)" srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/1280-719.2_cac0456c-0393-4dfc-9519-8c14d1e37a3c.jpg?v=1639020103"> <source media="(min-width: 769px)" srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/1024-575-2_445746ef-2429-4db8-9e03-a2b4a44351e4.jpg?v=1639020103"> <source media="(min-width: 601px)" srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/768-431-2_2bda3da6-6f3c-4c05-89d4-02da4d69ce08.jpg?v=1639020103"> <source media="(min-width: 401px)" srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/600-800-2_2489f253-ff4d-4306-835c-bc0e690d6a71.jpg?v=1639020103"> <source media="(max-width: 400px)" srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/400-533-2_87a845e8-0044-47c0-8700-66c131bec4af.jpg?v=1639020103"> <img class="hotspot-slide__image" alt="Hotspot tv desert" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></source></source></source></picture>
+<div class="hotspot-slide__area">
+<div>
+<div style="top: 76%; left: 99%;" class="hotspot hotspot--l">
+<div class="hotspot__dot">
+<p class="hotspot__text body-copy-1 hotspot__text--top-left"><span> Ltymi unlocks new immersive gaming experience. </span></p>
+</div>
+</div>
+</div>
+<div>
+<div style="top: 60%; left: 70%;" class="hotspot hotspot--s">
+<div class="hotspot__dot">
+<p class="hotspot__text body-copy-1 hotspot__text--top-left"><span> Ltymi unlocks new immersive gaming experience. </span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-pagination"></div>
+<div class="swiper-button swiper-button--prev"><svg viewbox="0 0 32 32" class="icon icon-leftwards icon--lg"> <path d="M10.293,15.293 L14.293,11.293 C14.488,11.098 14.744,11 15,11 C15.256,11 15.512,11.098 15.707,11.293 C16.098,11.684 16.098,12.316 15.707,12.707 L13.414,15 L21,15 C21.553,15 22,15.447 22,16 C22,16.553 21.553,17 21,17 L13.414,17 L15.707,19.293 C16.098,19.684 16.098,20.316 15.707,20.707 C15.316,21.098 14.684,21.098 14.293,20.707 L10.293,16.707 C9.902,16.316 9.902,15.684 10.293,15.293 M16,28 C22.627,28 28,22.627 28,16 C28,9.373 22.627,4 16,4 C9.373,4 4,9.373 4,16 C4,22.627 9.373,28 16,28"> </path> </svg></div>
+<div class="swiper-button swiper-button--next"><svg viewbox="0 0 32 32" class="icon icon-rightwards icon--lg"> <path d="M21.707,16.707 L17.707,20.707 C17.512,20.902 17.256,21 17,21 C16.744,21 16.488,20.902 16.293,20.707 C15.902,20.316 15.902,19.684 16.293,19.293 L18.586,17 L11,17 C10.447,17 10,16.553 10,16 C10,15.447 10.447,15 11,15 L18.586,15 L16.293,12.707 C15.902,12.316 15.902,11.684 16.293,11.293 C16.684,10.902 17.316,10.902 17.707,11.293 L21.707,15.293 C22.098,15.684 22.098,16.316 21.707,16.707 M16,4 C9.373,4 4,9.373 4,16 C4,22.627 9.373,28 16,28 C22.627,28 28,22.627 28,16 C28,9.373 22.627,4 16,4" xmlns="http://www.w3.org/2000/svg"></path> </svg></div>
+<span aria-atomic="true" aria-live="assertive" class="swiper-notification"> </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!----end下面的轮播--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://ilytmi.com/products/7463022887162</id>
+      <title>17- 30 inch / US</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>SSL001-01-US</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7463022887162</id>
+      <title>17- 30 inch / UK(VAT Included)</title>
+      <s:price currency="USD">84.80</s:price>
+      <s:sku>SSL001-01-UK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7463022887162</id>
+      <title>17- 30 inch / EU(VAT Included)</title>
+      <s:price currency="USD">84.73</s:price>
+      <s:sku>SSL001-01-EU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7463022887162</id>
+      <title>17- 30 inch / AU</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>SSL001-01-AU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7463022887162</id>
+      <title>17- 30 inch / Rest of the world</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>SSL001-01-Other</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7463022887162</id>
+      <title>31 - 42 inch / US</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>SSL001-02-US</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7463022887162</id>
+      <title>31 - 42 inch / UK(VAT Included)</title>
+      <s:price currency="USD">96.03</s:price>
+      <s:sku>SSL001-02-UK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7463022887162</id>
+      <title>31 - 42 inch / EU(VAT Included)</title>
+      <s:price currency="USD">97.89</s:price>
+      <s:sku>SSL001-02-EU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7463022887162</id>
+      <title>31 - 42 inch / AU</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>SSL001-02-AU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7463022887162</id>
+      <title>31 - 42 inch / Rest of the world</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>SSL001-02-Other</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7463022887162</id>
+      <title>43 - 55 inch / US</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku>SSL001-03-US</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7463022887162</id>
+      <title>43 - 55 inch / UK(VAT Included)</title>
+      <s:price currency="USD">118.30</s:price>
+      <s:sku>SSL001-03-UK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7463022887162</id>
+      <title>43 - 55 inch / EU(VAT Included)</title>
+      <s:price currency="USD">117.30</s:price>
+      <s:sku>SSL001-03-EU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7463022887162</id>
+      <title>43 - 55 inch / AU</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku>SSL001-03-AU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7463022887162</id>
+      <title>43 - 55 inch / Rest of the world</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku>SSL001-03-Other</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ilytmi.com/products/7440685859066</id>
+    <published>2021-11-19T17:57:08+08:00</published>
+    <updated>2021-11-19T17:57:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ilytmi.com/products/lytmi-neo-sync-box"/>
+    <title>Lytmi Neo Sync Box - HDMI 2.0</title>
+    <s:type></s:type>
+    <s:vendor>2021lightmi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0586/8273/6817/products/960-720-3.jpg?v=1637374621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>2021lightmi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            99.00 - 125.00
+            <a href="https://ilytmi.com/products/lytmi-neo-sync-box">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="section-component master-component theme--grey">
+<section class="section-cmp">
+<div class="section-component__container container spacing-responsive-2--padding-top">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="headline-component master-component">
+<div class="headline-component-wrapper">
+<div class="headline headline-h1-default">
+<h1 class="title heading-2">Full Immersion Experience</h1>
+<div class="headline__description rich-text-content">
+<p>A magic box to let you enjoy immersive experience at home.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<div class="section-component master-component theme--grey">
+<section id="features" class="" style="background-image: none;">
+<div data-observer-top="features"></div>
+<div class="section-component__container--fluid container--fluid spacing-responsive-0--padding no-gutter">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="story-banner-component master-component">
+<div class="story-banner">
+<div class="story-banner__content story-banner--left story-banner__content--height-large background-position--50-70 lazyloaded" style="background-image: url('https://cdn.shopify.com/s/files/1/0586/8273/6817/files/10-2000-660_c37d5299-2f9c-47dd-81ef-d4d4667bb641.jpg?v=1635319227');"></div>
+</div>
+</div>
+</div>
+</div>
+<div data-observer-bottom="features"></div>
+</section>
+</div>
+<!--轮播-->
+<div class="section-component master-component theme--white-white">
+<section class="">
+<div class="section-component__container--fluid container--fluid spacing-responsive-0--padding no-gutter">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="product-benefits-component master-component">
+<div>
+<div class="product-benefits">
+<div class="background-image-element product-benefits__background-image background-image-element--large background-position--50-50 background-position-mobile--50-50 product-benefits__background-image--active lazyloaded" style="background-image: url('https://cdn.shopify.com/s/files/1/0586/8273/6817/files/l1.jpg?v=1637230148');"></div>
+<div class="background-image-element product-benefits__background-image background-image-element--large background-position--50-50 background-position-mobile--70-50 lazyloaded" style="background-image: url('https://cdn.shopify.com/s/files/1/0586/8273/6817/files/l2.jpg?v=1637230148');"></div>
+<div class="background-image-element product-benefits__background-image background-image-element--large background-position--100-80 background-position-mobile--70-50 lazyloaded" style="background-image: url('https://cdn.shopify.com/s/files/1/0586/8273/6817/files/l3.jpg?v=1637230148');"></div>
+<div class="product-benefits__content container">
+<h1 class="product-benefits__title"></h1>
+<div class="product-benefits__benefits row">
+<div class="product-benefit col-sm-4">
+<h5 class="product-benefit__title">Upgrade your home theater</h5>
+<div class="product-benefit__description" style="height: auto;">
+<p>Create an ultimate home theater setup, enjoy amazing smart lighting experience.</p>
+</div>
+</div>
+<div class="product-benefit col-sm-4 product-benefit--hidden product-benefit--hover">
+<h5 class="product-benefit__title">Reactive lighting with games</h5>
+<div class="product-benefit__description" style="height: auto; display: none;">
+<p>Saving your teammate? Chasing a boss? Racing with friends? Whatever the game, your game experience will be enhanced.</p>
+</div>
+</div>
+<div class="product-benefit col-sm-4 product-benefit--hidden product-benefit--hover">
+<h5 class="product-benefit__title">Make your music visual</h5>
+<div class="product-benefit__description" style="height: auto; display: none;">
+<p>Sync lights with dynamic sounds, enhance your musical experience.</p>
+</div>
+</div>
+<div class="col-4">
+<div class="progress-bar-component">
+<div class="progress-bar progress-bar--active">
+<div class="progress-bar__bar"></div>
+</div>
+</div>
+</div>
+<div class="col-4">
+<div class="progress-bar-component">
+<div class="progress-bar">
+<div class="progress-bar__bar"></div>
+</div>
+</div>
+</div>
+<div class="col-4">
+<div class="progress-bar-component">
+<div class="progress-bar">
+<div class="progress-bar__bar"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!--end 轮播-->
+<div class="section-component master-component theme--grey">
+<section class="">
+<div class="section-component__container container spacing-responsive-0--padding">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="alternating-content-block-component master-component">
+<div class="alternating-content-block">
+<div class="alternating-content-block__block alternating-content-block__block--2 row">
+<div class="alternating-content-block__card col-11 col-sm-12 col-md-10">
+<h1 class="alternating-content-block__card-title heading-5--">Upgraded model - HDMI 2.0</h1>
+<div class="alternating-content-block__card-desc body-copy-1">
+<p>Seamless sync experience with Neo sync box, support high quality video: 4K/60Hz, HDR 10, Dolby Vision.</p>
+</div>
+<div class="alternating-content-block__card-image-wrap"><picture> <!-- [if IE 9]>
+											<video style="display: none">
+											</video><![endif]--> <!-- [if IE 9]>
+											
+										<![endif]--> <img src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/14-454-454_4K60Hz_bc83d3df-0be3-4d00-88be-c0b7373ebc96.jpg?v=1640169050" class="alternating-content-block__card-image lazyautosizes lazyloaded" sizes="453px"> </picture></div>
+</div>
+</div>
+<div class="alternating-content-block__block alternating-content-block__block--4 row">
+<div class="alternating-content-block__card col-11 col-sm-12 col-md-10">
+<h1 class="alternating-content-block__card-title heading-5--">App control</h1>
+<div class="alternating-content-block__card-desc body-copy-1">
+<p>Except for sync mode, multiple scene modes present in Light Mi APP, 12 scene modes and 3 music modes.</p>
+</div>
+<div class="alternating-content-block__card-image-wrap"><picture> <!-- [if IE 9]>
+											<video style="display: none">
+											</video><![endif]--> <!-- [if IE 9]>
+											
+										<![endif]--> <img src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/454-454-app.jpg?v=1640169050" class="alternating-content-block__card-image lazyautosizes lazyloaded" sizes="453px"> </picture></div>
+</div>
+</div>
+<div class="alternating-content-block__block alternating-content-block__block--1 row m-display-none">
+<div class="alternating-content-block__header col-12 col-md-10">
+<h2 class="alternating-content-block__header-title heading-2"></h2>
+<div class="alternating-content-block__header-desc body-copy-1">
+<p> </p>
+</div>
+</div>
+</div>
+<div class="alternating-content-block__block alternating-content-block__block--3 row">
+<div class="alternating-content-block__card col-11 col-sm-12 col-md-10">
+<h1 class="alternating-content-block__card-title heading-5--">Black bar auto refill</h1>
+<div class="alternating-content-block__card-desc body-copy-1">
+<p>Neo equip with auto refill function, automatically compensate the light for the black side of the movie, giving you the perfect home theater atmosphere.</p>
+</div>
+<div class="alternating-content-block__card-image-wrap"><picture> <!-- [if IE 9]>
+											<video style="display: none">
+											</video><![endif]--> <!-- [if IE 9]>
+											
+										<![endif]--> <img src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/454-454_225c366a-ab24-4160-93b4-3a51b0d78edf.jpg?v=1638526602" class="alternating-content-block__card-image lazyautosizes lazyloaded" sizes="453px"> </picture></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!--end 块1-->
+<div class="section-component master-component theme--grey">
+<section class="">
+<div class="section-component__container container spacing-responsive-2--padding">
+<div>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="story-component master-component">
+<div class="story spacing-responsive-2 story--right story--image-center story--image-top-mobile">
+<div class="container">
+<div class="row">
+<div class="col-12 col-sm-6 story__image-wrapper">
+<div class="parallax__pin"><picture class="story__picture"> <img src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/454-454_b1ec7b6e-6734-4842-9bfd-f39e9616ef62.jpg?v=1638526603" class="story__image img-responsive lazyautosizes lazyloaded" sizes="534px"> </picture></div>
+</div>
+<div class="story__text-wrapper col-12 col-sm-5 offset-sm-1">
+<div class="story__headline headline headline-h2-default">
+<h1 class="headline__title heading-2">Voice Control</h1>
+</div>
+<div class="story__description rich-text-content">
+<p>Control Neo box through Amazon Alexa and Google Assistant, expand your smart home.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="story-component master-component">
+<div class="story spacing-responsive-2 story--left story--image-center story--image-top-mobile">
+<div class="container">
+<div class="row">
+<div class="col-12 col-sm-6 offset-sm-1 order-sm-last story__image-wrapper">
+<div class="parallax__pin"><picture class="story__picture"> <img src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/18-454-454_b4344fdd-db0f-48ec-8290-493baf5d0fd9.jpg?v=1637230376" class="story__image img-responsive lazyautosizes lazyloaded" sizes="534px"> </picture></div>
+</div>
+<div class="story__text-wrapper col-12 col-sm-5 order-sm-first">
+<div class="story__headline headline headline-h2-default">
+<h1 class="headline__title heading-2">Maximum Compatibility</h1>
+</div>
+<div class="story__description rich-text-content">
+<p>No calibration, no bridge, just pair it with any HDMI devices, Apple TV, Amazon Fire Stick, Xbox, PlayStation, Mac transform your living room into a theatrical piece of art.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="story-component master-component">
+<div class="story spacing-responsive-2 story--right story--image-center story--image-top-mobile">
+<div class="container">
+<div class="row">
+<div class="col-12 col-sm-6 story__image-wrapper">
+<div class="parallax__pin"><picture class="story__picture"> <img src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/6_5b121dbc-dd1e-48a8-92e1-89799bd74f3c.jpg?v=1637230376" class="story__image img-responsive lazyautosizes lazyloaded" sizes="534px"> </picture></div>
+</div>
+<div class="story__text-wrapper col-12 col-sm-5 offset-sm-1">
+<div class="story__headline headline headline-h2-default">
+<h1 class="headline__title heading-2">Softening Algorithms</h1>
+</div>
+<div class="story__description rich-text-content">
+<p>Neo set 3 sync speed to make sure when the onscreen content changes even rapidly, the lights will sync the colors and effects in a way that’s is eyes-friendly.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!--end块2-->
+<div class="section-component master-component theme--grey">
+<section class="">
+<div class="section-component__container container spacing-responsive-2--padding">
+<div>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="whats-in-the-box-component master-component">
+<div class="row whats-in-the-box">
+<div class="col-12 col-sm-5 whats-in-the-box__content">
+<div>
+<h1 class="heading-2">What's in the box?</h1>
+<p>1 x Lytmi Neo Box</p>
+<p> </p>
+<p>1 x HDMI Cable</p>
+<p> </p>
+<p>1 x AC Power Adapter</p>
+</div>
+</div>
+<div class="col-12 col-sm-6"><picture> <img src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/9-960-720.jpg?v=1637230578" class="whats-in-the-box__image lazyautosizes ls-is-cached lazyloaded" sizes="543px"> </picture></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!--end块3-->
+<div class="section-component master-component theme--white-white">
+<section class="section-cmp">
+<div class="section-component__container container spacing-responsive-2--padding-top">
+<div>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="title-component master-component title-component--styles-center">
+<h1 class="title heading-1">Expand Your Smart Home with Neo</h1>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!--下面的轮播-->
+<div class="section-component master-component theme--white-white">
+<section class="">
+<div class="section-component__container--fluid container--fluid spacing-responsive-2--padding-top no-gutter">
+<div>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="carousel-component carousel">
+<div>
+<div class="swiper-container carousel">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<div class="hotspot-slide-component master-component">
+<div class="slide">
+<div class="hotspot-slide">
+<picture class="hotspot-slide__picture"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/20-1680-944_9599d7d8-aa69-45d0-85bc-0af9b53da299.jpg" media="(min-width: 1281px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/1280-719_8dce68c1-e322-4880-83d0-dffb3d7f4ffe.jpg" media="(min-width: 1025px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/1024-575_982a46c4-89cd-4aed-a88c-140fc89a04c3.jpg" media="(min-width: 769px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/768-431_5d84b5ad-f6b9-4592-96d9-c5f55efdb880.jpg" media="(min-width: 601px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/600-800_c91a774f-bf8e-45f2-9883-aa430052abc8.jpg" media="(min-width: 401px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/400-533_36f28ca9-f252-4175-bf4f-d97308665da7.jpg" media="(max-width: 400px)"> <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Hotspot tv desert" class="hotspot-slide__image"></source></source></source></picture>
+<div class="hotspot-slide__area">
+<div>
+<div class="hotspot hotspot--l" style="top: 76%; left: 99%;">
+<div class="hotspot__dot">
+<p class="hotspot__text body-copy-1 hotspot__text--top-left"><span> Want to control your Neo box with your smartphone? Install Lytmi App to and set it up to your Neo box. </span></p>
+</div>
+</div>
+</div>
+<div>
+<div class="hotspot hotspot--s" style="top: 60%; left: 70%;">
+<div class="hotspot__dot">
+<p class="hotspot__text body-copy-1 hotspot__text--top-left"><span> Want to control your Neo box with your smartphone? Install Lytmi App to and set it up to your Neo box. </span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="hotspot-slide-component master-component">
+<div class="slide">
+<div class="hotspot-slide">
+<picture class="hotspot-slide__picture"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/21-1680-944.jpg" media="(min-width: 1281px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/1280-719_42988e61-1d8b-433d-94d9-436882d25fb8.jpg" media="(min-width: 1025px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/1024-575_9ee6c841-69c7-4383-8588-2d35d509893d.jpg" media="(min-width: 769px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/768-431_7fdad970-fc41-432a-949d-f213d129ed07.jpg" media="(min-width: 601px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/600-800_5f53ff20-078e-4296-880a-a849aa3508bd.jpg" media="(min-width: 401px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/400-533_9becd2e3-2ae0-4ed3-9409-7b00ff66e4b5.jpg" media="(max-width: 400px)"> <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Hotspot tv desert" class="hotspot-slide__image"></source></source></source></picture>
+<div class="hotspot-slide__area">
+<div>
+<div class="hotspot hotspot--l" style="top: 76%; left: 99%;">
+<div class="hotspot__dot">
+<p class="hotspot__text body-copy-1 hotspot__text--top-left"><span> Want to control your Neo box with your smartphone? Install Lytmi App to and set it up to your Neo box. </span></p>
+</div>
+</div>
+</div>
+<div>
+<div class="hotspot hotspot--s" style="top: 60%; left: 70%;">
+<div class="hotspot__dot">
+<p class="hotspot__text body-copy-1 hotspot__text--top-left"><span> Want to control your Neo box with your smartphone? Install Lytmi App to and set it up to your Neo box. </span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-pagination"></div>
+<div class="swiper-button swiper-button--prev"><svg class="icon icon-leftwards icon--lg" viewbox="0 0 32 32"> <path d="M10.293,15.293 L14.293,11.293 C14.488,11.098 14.744,11 15,11 C15.256,11 15.512,11.098 15.707,11.293 C16.098,11.684 16.098,12.316 15.707,12.707 L13.414,15 L21,15 C21.553,15 22,15.447 22,16 C22,16.553 21.553,17 21,17 L13.414,17 L15.707,19.293 C16.098,19.684 16.098,20.316 15.707,20.707 C15.316,21.098 14.684,21.098 14.293,20.707 L10.293,16.707 C9.902,16.316 9.902,15.684 10.293,15.293 M16,28 C22.627,28 28,22.627 28,16 C28,9.373 22.627,4 16,4 C9.373,4 4,9.373 4,16 C4,22.627 9.373,28 16,28"> </path> </svg></div>
+<div class="swiper-button swiper-button--next"><svg class="icon icon-rightwards icon--lg" viewbox="0 0 32 32"> <path xmlns="http://www.w3.org/2000/svg" d="M21.707,16.707 L17.707,20.707 C17.512,20.902 17.256,21 17,21 C16.744,21 16.488,20.902 16.293,20.707 C15.902,20.316 15.902,19.684 16.293,19.293 L18.586,17 L11,17 C10.447,17 10,16.553 10,16 C10,15.447 10.447,15 11,15 L18.586,15 L16.293,12.707 C15.902,12.316 15.902,11.684 16.293,11.293 C16.684,10.902 17.316,10.902 17.707,11.293 L21.707,15.293 C22.098,15.684 22.098,16.316 21.707,16.707 M16,4 C9.373,4 4,9.373 4,16 C4,22.627 9.373,28 16,28 C22.627,28 28,22.627 28,16 C28,9.373 22.627,4 16,4"></path> </svg></div>
+<span class="swiper-notification" aria-live="assertive" aria-atomic="true"> </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!----end下面的轮播--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://ilytmi.com/products/7440685859066</id>
+      <title>US</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>LDD12-US</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7440685859066</id>
+      <title>UK(VAT Included)</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>LDD12-UK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7440685859066</id>
+      <title>AU</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>LDD12-AU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7440685859066</id>
+      <title>EU(VAT Included)</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>LDD12-EU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7440685859066</id>
+      <title>Rest of the world</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>LDD12-other</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ilytmi.com/products/7456608583930</id>
+    <published>2021-11-19T16:33:06+08:00</published>
+    <updated>2021-11-19T16:33:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ilytmi.com/products/lytmi-neo-sync-box-tv-backlight-kit-hdmi-1-4"/>
+    <title>Lytmi Neo Sync Box &amp; TV Backlight Kit - HDMI 1.4</title>
+    <s:type></s:type>
+    <s:vendor>2021lightmi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0586/8273/6817/products/1.4.jpg?v=1638002448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>2021lightmi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            119.99 - 192.00
+            <a href="https://ilytmi.com/products/lytmi-neo-sync-box-tv-backlight-kit-hdmi-1-4">(15 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="section-component master-component theme--grey">
+<section class="section-cmp">
+<div class="section-component__container container spacing-responsive-2--padding-top">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="headline-component master-component">
+<div class="headline-component-wrapper">
+<div class="headline headline-h1-default">
+<h1 class="title heading-2">Full Immersion Experience</h1>
+<div class="headline__description rich-text-content">
+<p>A magic box to unblock full surround lighting in your home.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<div class="section-component master-component theme--grey">
+<section id="features" class="" style="background-image: none;">
+<div data-observer-top="features"></div>
+<div class="section-component__container--fluid container--fluid spacing-responsive-0--padding no-gutter">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="story-banner-component master-component">
+<div class="story-banner">
+<div class="story-banner__content story-banner--left story-banner__content--height-large background-position--50-70 lazyloaded" style="background-image: url('https://cdn.shopify.com/s/files/1/0586/8273/6817/files/10-2000-660_c37d5299-2f9c-47dd-81ef-d4d4667bb641.jpg?v=1635319227');"></div>
+</div>
+</div>
+</div>
+</div>
+<div data-observer-bottom="features"></div>
+</section>
+</div>
+<!--轮播-->
+<div class="section-component master-component theme--white-white">
+<section class="">
+<div class="section-component__container--fluid container--fluid spacing-responsive-0--padding no-gutter">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="product-benefits-component master-component">
+<div>
+<div class="product-benefits">
+<div class="background-image-element product-benefits__background-image background-image-element--large background-position--50-50 background-position-mobile--50-50 product-benefits__background-image--active lazyloaded" style="background-image: url('https://cdn.shopify.com/s/files/1/0586/8273/6817/files/11-2000-580_e21db28b-a08c-49b0-a1c0-02a4fa4bc697.jpg?');"></div>
+<div class="background-image-element product-benefits__background-image background-image-element--large background-position--50-50 background-position-mobile--70-50 lazyloaded" style="background-image: url('https://cdn.shopify.com/s/files/1/0586/8273/6817/files/12-2000-580_b46ceaba-2686-4a24-95e1-03ccba92e615.jpg');"></div>
+<div class="background-image-element product-benefits__background-image background-image-element--large background-position--100-80 background-position-mobile--70-50 lazyloaded" style="background-image: url('https://cdn.shopify.com/s/files/1/0586/8273/6817/files/13-2000-580_b8d6b9da-b646-4cf0-9713-b595b1aaa8ba.jpg?v=1635330558');"></div>
+<div class="product-benefits__content container">
+<h1 class="product-benefits__title">Next Level Visual Experience</h1>
+<div class="product-benefits__benefits row">
+<div class="product-benefit col-sm-4">
+<h5 class="product-benefit__title">Brings the cinema home</h5>
+<div class="product-benefit__description" style="height: auto;">
+<p>The color of lights will sync to what display of your movies and TV shows.</p>
+</div>
+</div>
+<div class="product-benefit col-sm-4 product-benefit--hidden product-benefit--hover">
+<h5 class="product-benefit__title">New gaming experience</h5>
+<div class="product-benefit__description" style="height: auto; display: none;">
+<p>Build an immersive gaming experience, every effects will be amplified.</p>
+</div>
+</div>
+<div class="product-benefit col-sm-4 product-benefit--hidden product-benefit--hover">
+<h5 class="product-benefit__title">Sound-to-light show</h5>
+<div class="product-benefit__description" style="height: auto; display: none;">
+<p>Neo box is equipped with a built-in mic, helping you sync them to music.</p>
+</div>
+</div>
+<div class="col-4">
+<div class="progress-bar-component">
+<div class="progress-bar progress-bar--active">
+<div class="progress-bar__bar"></div>
+</div>
+</div>
+</div>
+<div class="col-4">
+<div class="progress-bar-component">
+<div class="progress-bar">
+<div class="progress-bar__bar"></div>
+</div>
+</div>
+</div>
+<div class="col-4">
+<div class="progress-bar-component">
+<div class="progress-bar">
+<div class="progress-bar__bar"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!--end 轮播-->
+<div class="section-component master-component theme--grey">
+<section class="">
+<div class="section-component__container container spacing-responsive-0--padding">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="alternating-content-block-component master-component">
+<div class="alternating-content-block">
+<div class="alternating-content-block__block alternating-content-block__block--2 row">
+<div class="alternating-content-block__card col-11 col-sm-12 col-md-10">
+<h1 class="alternating-content-block__card-title heading-5--">ARGB Advantage</h1>
+<div class="alternating-content-block__card-desc body-copy-1">
+<p>Each Neo lightstrip has 48 ARGB LEDs/m. Each LED can display a different color and brightness than its neighbors.</p>
+</div>
+<div class="alternating-content-block__card-image-wrap"><picture> <!-- [if IE 9]>
+											<video style="display: none">
+											</video><![endif]--> <!-- [if IE 9]>
+											
+										<![endif]--> <img src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/14-454-454-ARGB.jpg?v=1634820135" class="alternating-content-block__card-image lazyautosizes lazyloaded" sizes="453px"> </picture></div>
+</div>
+</div>
+<div class="alternating-content-block__block alternating-content-block__block--4 row">
+<div class="alternating-content-block__card col-11 col-sm-12 col-md-10">
+<h1 class="alternating-content-block__card-title heading-5--">Fit All Screen Size</h1>
+<div class="alternating-content-block__card-desc body-copy-1">
+<p>The light strip is cuttable design, make it easy to attach to the back of screen in any size. The Neo box will auto calibrate the light strips.</p>
+</div>
+<div class="alternating-content-block__card-image-wrap"><picture> <!-- [if IE 9]>
+											<video style="display: none">
+											</video><![endif]--> <!-- [if IE 9]>
+											
+										<![endif]--> <img src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/15-454-454-_2.jpg?v=1635144121" class="alternating-content-block__card-image lazyautosizes lazyloaded" sizes="453px"> </picture></div>
+</div>
+</div>
+<div class="alternating-content-block__block alternating-content-block__block--1 row m-display-none">
+<div class="alternating-content-block__header col-12 col-md-10">
+<h2 class="alternating-content-block__header-title heading-2"></h2>
+<div class="alternating-content-block__header-desc body-copy-1">
+<p> </p>
+</div>
+</div>
+</div>
+<div class="alternating-content-block__block alternating-content-block__block--3 row">
+<div class="alternating-content-block__card col-11 col-sm-12 col-md-10">
+<h1 class="alternating-content-block__card-title heading-5--">Accurate Color Reproduction</h1>
+<div class="alternating-content-block__card-desc body-copy-1">
+<p>Neo can process up to 500 pixel dot, ensuring a high accuracy of color reproduction via the lightstrips in sync mode.</p>
+</div>
+<div class="alternating-content-block__card-image-wrap"><picture> <!-- [if IE 9]>
+											<video style="display: none">
+											</video><![endif]--> <!-- [if IE 9]>
+											
+										<![endif]--> <img src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/19-454-454.jpg?v=1635144306" class="alternating-content-block__card-image lazyautosizes lazyloaded" sizes="453px"> </picture></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!--end 块1-->
+<div class="section-component master-component theme--grey">
+<section class="">
+<div class="section-component__container container spacing-responsive-2--padding">
+<div>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="story-component master-component">
+<div class="story spacing-responsive-2 story--right story--image-center story--image-top-mobile">
+<div class="container">
+<div class="row">
+<div class="col-12 col-sm-6 story__image-wrapper">
+<div class="parallax__pin"><picture class="story__picture"> <img src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/17-454-454-APP.jpg?v=1635142695" class="story__image img-responsive lazyautosizes lazyloaded" sizes="534px"> </picture></div>
+</div>
+<div class="story__text-wrapper col-12 col-sm-5 offset-sm-1">
+<div class="story__headline headline headline-h2-default">
+<h1 class="headline__title heading-2">Control In Your Way</h1>
+</div>
+<div class="story__description rich-text-content">
+<p>By controlling the ambient light with Light Mi APP or voice commands through Amazon Alexa and Google Assistant, you will savor the true meaning of smartness by adjusting everything ranging from colors, effects to brightness with just a simple click or slide.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="story-component master-component">
+<div class="story spacing-responsive-2 story--left story--image-center story--image-top-mobile">
+<div class="container">
+<div class="row">
+<div class="col-12 col-sm-6 offset-sm-1 order-sm-last story__image-wrapper">
+<div class="parallax__pin"><picture class="story__picture"> <img src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/18-454-454.jpg?v=1635144306" class="story__image img-responsive lazyautosizes lazyloaded" sizes="534px"> </picture></div>
+</div>
+<div class="story__text-wrapper col-12 col-sm-5 order-sm-first">
+<div class="story__headline headline headline-h2-default">
+<h1 class="headline__title heading-2">Seamless Synchronization</h1>
+</div>
+<div class="story__description rich-text-content">
+<p>The Lytmi NEO Box and TV Backlight will definitely amaze you with the unprecedented immersive atmosphere created to render you an ultimate movie and TV show watching experience. You can just bring the cinema home.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="story-component master-component">
+<div class="story spacing-responsive-2 story--right story--image-center story--image-top-mobile">
+<div class="container">
+<div class="row">
+<div class="col-12 col-sm-6 story__image-wrapper">
+<div class="parallax__pin"><picture class="story__picture"> <img src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/16-454-454.jpg?v=1635142655" class="story__image img-responsive lazyautosizes lazyloaded" sizes="534px"> </picture></div>
+</div>
+<div class="story__text-wrapper col-12 col-sm-5 offset-sm-1">
+<div class="story__headline headline headline-h2-default">
+<h1 class="headline__title heading-2">Endless Possibilities</h1>
+</div>
+<div class="story__description rich-text-content">
+<p>Connect to a huge range of devices via HDMI. Works with Apple TV, Xbox, PlayStation and Mac &amp; Windows and many more. Just plug in and play up to 4K/30hz.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!--end块2-->
+<div class="section-component master-component theme--grey">
+<section class="">
+<div class="section-component__container container spacing-responsive-2--padding">
+<div>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="whats-in-the-box-component master-component">
+<div class="row whats-in-the-box">
+<div class="col-12 col-sm-5 whats-in-the-box__content">
+<div>
+<h1 class="heading-2">Auto Black Bar Refill</h1>
+<p>Neo can auto refill the black bar in all movies TV series and video games, apply their color on lightstrips.</p>
+</div>
+</div>
+<div class="col-12 col-sm-6"><picture> <img src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/454-454.jpg" class="whats-in-the-box__image lazyautosizes ls-is-cached lazyloaded" sizes="543px"> </picture></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!--end块2-->
+<div class="section-component master-component theme--grey">
+<section class="">
+<div class="section-component__container container spacing-responsive-2--padding">
+<div>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="whats-in-the-box-component master-component">
+<div class="row whats-in-the-box">
+<div class="col-12 col-sm-5 whats-in-the-box__content">
+<div>
+<h1 class="heading-2">What's in the box?</h1>
+<p>1 x Lytmi Neo box</p>
+<p> </p>
+<p>2 x Light Strip Coils</p>
+<p> </p>
+<p>1 x HDMI Cable</p>
+<p> </p>
+<p>1 x AC Power Adapter</p>
+<p> </p>
+<p>4 x Fixing Brackets for light strips</p>
+</div>
+</div>
+<div class="col-12 col-sm-6"><picture> <img src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/21-454-454.jpg" class="whats-in-the-box__image lazyautosizes ls-is-cached lazyloaded" sizes="543px"> </picture></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!--end块3-->
+<div class="section-component master-component theme--white-white">
+<section class="section-cmp">
+<div class="section-component__container container spacing-responsive-2--padding-top">
+<div>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="title-component master-component title-component--styles-center">
+<h1 class="title heading-1">Expand Your Smart Home with Neo</h1>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!--下面的轮播-->
+<div class="section-component master-component theme--white-white">
+<section class="">
+<div class="section-component__container--fluid container--fluid spacing-responsive-2--padding-top no-gutter">
+<div>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="carousel-component carousel">
+<div>
+<div class="swiper-container carousel">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<div class="hotspot-slide-component master-component">
+<div class="slide">
+<div class="hotspot-slide">
+<picture class="hotspot-slide__picture"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/20-1680-944.jpg" media="(min-width: 1281px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/1280.jpg" media="(min-width: 1025px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/1024.jpg" media="(min-width: 769px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/768.jpg" media="(min-width: 601px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/600.jpg" media="(min-width: 401px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/400.jpg" media="(max-width: 400px)"> <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Hotspot tv desert" class="hotspot-slide__image"></source></source></source></picture>
+<div class="hotspot-slide__area">
+<div>
+<div class="hotspot hotspot--l" style="top: 76%; left: 99%;">
+<div class="hotspot__dot">
+<p class="hotspot__text body-copy-1 hotspot__text--top-left"><span> Want to control your Neo box with your smartphone? Install Lytmi App to and set it up to your Neo box. </span></p>
+</div>
+</div>
+</div>
+<div>
+<div class="hotspot hotspot--s" style="top: 60%; left: 70%;">
+<div class="hotspot__dot">
+<p class="hotspot__text body-copy-1 hotspot__text--top-left"><span> Want to control your Neo box with your smartphone? Install Lytmi App to and set it up to your Neo box. </span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="hotspot-slide-component master-component">
+<div class="slide">
+<div class="hotspot-slide">
+<picture class="hotspot-slide__picture"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/20.1-1680-944.jpg" media="(min-width: 1281px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/1280-719.jpg" media="(min-width: 1025px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/1024-575.jpg" media="(min-width: 769px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/768-431.jpg" media="(min-width: 601px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/600-800.jpg" media="(min-width: 401px)"> <source srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/400-533.jpg" media="(max-width: 400px)"> <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Hotspot tv desert" class="hotspot-slide__image"></source></source></source></picture>
+<div class="hotspot-slide__area">
+<div>
+<div class="hotspot hotspot--l" style="top: 76%; left: 99%;">
+<div class="hotspot__dot">
+<p class="hotspot__text body-copy-1 hotspot__text--top-left"><span> Want to control your Neo box with your smartphone? Install Lytmi App to and set it up to your Neo box. </span></p>
+</div>
+</div>
+</div>
+<div>
+<div class="hotspot hotspot--s" style="top: 60%; left: 70%;">
+<div class="hotspot__dot">
+<p class="hotspot__text body-copy-1 hotspot__text--top-left"><span> Want to control your Neo box with your smartphone? Install Lytmi App to and set it up to your Neo box. </span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-pagination"></div>
+<div class="swiper-button swiper-button--prev"><svg class="icon icon-leftwards icon--lg" viewbox="0 0 32 32"> <path d="M10.293,15.293 L14.293,11.293 C14.488,11.098 14.744,11 15,11 C15.256,11 15.512,11.098 15.707,11.293 C16.098,11.684 16.098,12.316 15.707,12.707 L13.414,15 L21,15 C21.553,15 22,15.447 22,16 C22,16.553 21.553,17 21,17 L13.414,17 L15.707,19.293 C16.098,19.684 16.098,20.316 15.707,20.707 C15.316,21.098 14.684,21.098 14.293,20.707 L10.293,16.707 C9.902,16.316 9.902,15.684 10.293,15.293 M16,28 C22.627,28 28,22.627 28,16 C28,9.373 22.627,4 16,4 C9.373,4 4,9.373 4,16 C4,22.627 9.373,28 16,28"> </path> </svg></div>
+<div class="swiper-button swiper-button--next"><svg class="icon icon-rightwards icon--lg" viewbox="0 0 32 32"> <path xmlns="http://www.w3.org/2000/svg" d="M21.707,16.707 L17.707,20.707 C17.512,20.902 17.256,21 17,21 C16.744,21 16.488,20.902 16.293,20.707 C15.902,20.316 15.902,19.684 16.293,19.293 L18.586,17 L11,17 C10.447,17 10,16.553 10,16 C10,15.447 10.447,15 11,15 L18.586,15 L16.293,12.707 C15.902,12.316 15.902,11.684 16.293,11.293 C16.684,10.902 17.316,10.902 17.707,11.293 L21.707,15.293 C22.098,15.684 22.098,16.316 21.707,16.707 M16,4 C9.373,4 4,9.373 4,16 C4,22.627 9.373,28 16,28 C22.627,28 28,22.627 28,16 C28,9.373 22.627,4 16,4"></path> </svg></div>
+<span class="swiper-notification" aria-live="assertive" aria-atomic="true"> </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!----end下面的轮播--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://ilytmi.com/products/7456608583930</id>
+      <title>For 65 inch and below / US</title>
+      <s:price currency="USD">119.99</s:price>
+      <s:sku>LDD60-US</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7456608583930</id>
+      <title>For 65 inch and below / UK(VAT Included)</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku>LDD60-UK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7456608583930</id>
+      <title>For 65 inch and below / AU</title>
+      <s:price currency="USD">119.99</s:price>
+      <s:sku>LDD60-AU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7456608583930</id>
+      <title>For 65 inch and below / EU(VAT Included)</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku>LDD60-EU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7456608583930</id>
+      <title>For 65 inch and below / Rest of the world</title>
+      <s:price currency="USD">119.99</s:price>
+      <s:sku>LDD60-Other</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7456608583930</id>
+      <title>For 66-90 inch / US</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>LDD48-US</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7456608583930</id>
+      <title>For 66-90 inch / UK(VAT Included)</title>
+      <s:price currency="USD">168.00</s:price>
+      <s:sku>LDD48-UK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7456608583930</id>
+      <title>For 66-90 inch / AU</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>LDD48-AU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7456608583930</id>
+      <title>For 66-90 inch / EU(VAT Included)</title>
+      <s:price currency="USD">168.00</s:price>
+      <s:sku>LDD48-EU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7456608583930</id>
+      <title>For 66-90 inch / Rest of the world</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>LDD48-Other</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7456608583930</id>
+      <title>For 91-120 inch / US</title>
+      <s:price currency="USD">159.99</s:price>
+      <s:sku>LDD30-US</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7456608583930</id>
+      <title>For 91-120 inch / UK(VAT Included)</title>
+      <s:price currency="USD">192.00</s:price>
+      <s:sku>LDD30-UK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7456608583930</id>
+      <title>For 91-120 inch / AU</title>
+      <s:price currency="USD">159.99</s:price>
+      <s:sku>LDD30-AU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7456608583930</id>
+      <title>For 91-120 inch / EU(VAT Included)</title>
+      <s:price currency="USD">192.00</s:price>
+      <s:sku>LDD30-EU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/7456608583930</id>
+      <title>For 91-120 inch / Rest of the world</title>
+      <s:price currency="USD">159.99</s:price>
+      <s:sku>LDD30-Other</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ilytmi.com/products/6864929423537</id>
+    <published>2021-11-18T18:51:55+08:00</published>
+    <updated>2021-11-18T18:51:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ilytmi.com/products/lightmi-neo-sync-light-strip-kit"/>
+    <title>Lytmi Neo Sync Box &amp; TV Backlight Kit - HDMI 2.0 (Est shipping time Dec 29)</title>
+    <s:type></s:type>
+    <s:vendor>2021lightmi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0586/8273/6817/products/1_1.jpg?v=1639736930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>2021lightmi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            169.00 - 267.00
+            <a href="https://ilytmi.com/products/lightmi-neo-sync-light-strip-kit">(15 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="section-component master-component theme--grey">
+<section class="section-cmp">
+<div class="section-component__container container spacing-responsive-2--padding-top">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="headline-component master-component">
+<div class="headline-component-wrapper">
+<div class="headline headline-h1-default">
+<h1 class="title heading-2">Full Immersion Experience</h1>
+<div class="headline__description rich-text-content">
+<p>A magic box that unblocks full surround lighting in your home.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<div class="section-component master-component theme--grey">
+<section style="background-image: none;" class="" id="features">
+<div data-observer-top="features"></div>
+<div class="section-component__container--fluid container--fluid spacing-responsive-0--padding no-gutter">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="story-banner-component master-component">
+<div class="story-banner">
+<div style="background-image: url('https://cdn.shopify.com/s/files/1/0586/8273/6817/files/10-2000-660_c37d5299-2f9c-47dd-81ef-d4d4667bb641.jpg?v=1635319227');" class="story-banner__content story-banner--left story-banner__content--height-large background-position--50-70 lazyloaded"></div>
+</div>
+</div>
+</div>
+</div>
+<div data-observer-bottom="features"></div>
+</section>
+</div>
+<!--轮播-->
+<div class="section-component master-component theme--white-white">
+<section class="">
+<div class="section-component__container--fluid container--fluid spacing-responsive-0--padding no-gutter">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="product-benefits-component master-component">
+<div>
+<div class="product-benefits">
+<div style="background-image: url('https://cdn.shopify.com/s/files/1/0586/8273/6817/files/11-2000-580_04a0fd19-8af4-4d48-bbd0-4885424c1b92.jpg?v=1637308896');" class="background-image-element product-benefits__background-image background-image-element--large background-position--50-50 background-position-mobile--50-50 product-benefits__background-image--active lazyloaded"></div>
+<div style="background-image: url('https://cdn.shopify.com/s/files/1/0586/8273/6817/files/12-2000-580_cb6c5b38-b6d1-46c2-8291-2c01db0428f4.jpg?v=1637308896');" class="background-image-element product-benefits__background-image background-image-element--large background-position--50-50 background-position-mobile--70-50 lazyloaded"></div>
+<div style="background-image: url('https://cdn.shopify.com/s/files/1/0586/8273/6817/files/13-2000-580_7d057914-98bd-4e04-81b2-b476e3bb8188.jpg?v=1637308896');" class="background-image-element product-benefits__background-image background-image-element--large background-position--100-80 background-position-mobile--70-50 lazyloaded"></div>
+<div class="product-benefits__content container">
+<h1 class="product-benefits__title"></h1>
+<div class="product-benefits__benefits row">
+<div class="product-benefit col-sm-4">
+<h5 class="product-benefit__title">Lighting for movies</h5>
+<div style="height: auto;" class="product-benefit__description">
+<p>Sync smart lights with your TV to make an immersive viewing experience.</p>
+</div>
+</div>
+<div class="product-benefit col-sm-4 product-benefit--hidden product-benefit--hover">
+<h5 class="product-benefit__title">Transform your gaming setup</h5>
+<div style="height: auto; display: none;" class="product-benefit__description">
+<p>Amplify every action, feel the thrill of a chase, upgrade your gaming experience.</p>
+</div>
+</div>
+<div class="product-benefit col-sm-4 product-benefit--hidden product-benefit--hover">
+<h5 class="product-benefit__title">Sync up your music</h5>
+<div style="height: auto; display: none;" class="product-benefit__description">
+<p>Create immersive light shows that seamlessly sync to the beat.</p>
+</div>
+</div>
+<div class="col-4">
+<div class="progress-bar-component">
+<div class="progress-bar progress-bar--active">
+<div class="progress-bar__bar"></div>
+</div>
+</div>
+</div>
+<div class="col-4">
+<div class="progress-bar-component">
+<div class="progress-bar">
+<div class="progress-bar__bar"></div>
+</div>
+</div>
+</div>
+<div class="col-4">
+<div class="progress-bar-component">
+<div class="progress-bar">
+<div class="progress-bar__bar"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!--end 轮播-->
+<div class="section-component master-component theme--grey">
+<section class="">
+<div class="section-component__container container spacing-responsive-0--padding">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="alternating-content-block-component master-component">
+<div class="alternating-content-block">
+<div class="alternating-content-block__block alternating-content-block__block--2 row">
+<div class="alternating-content-block__card col-11 col-sm-12 col-md-10">
+<h1 class="alternating-content-block__card-title heading-5--">Upgraded Model - HDMI 2.0</h1>
+<div class="alternating-content-block__card-desc body-copy-1">
+<p>Seamless sync experience with Neo sync box, support high quality video: 4K/60Hz, HDR 10, Dolby Vision.</p>
+</div>
+<div class="alternating-content-block__card-image-wrap"><picture> <!-- [if IE 9]>
+											<video style="display: none">
+											</video><![endif]--> <!-- [if IE 9]>
+											
+										<![endif]--> <img sizes="453px" class="alternating-content-block__card-image lazyautosizes lazyloaded" src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/85422ce474f7c45edfb43aac6b6cf51e.jpg?v=1640167447"> </picture></div>
+</div>
+</div>
+<div class="alternating-content-block__block alternating-content-block__block--4 row">
+<div class="alternating-content-block__card col-11 col-sm-12 col-md-10">
+<h1 class="alternating-content-block__card-title heading-5--">Fit All Screen Size</h1>
+<div class="alternating-content-block__card-desc body-copy-1">
+<p>The light strip is cuttable design, make it easy to attach to the back of screen in any size. The Neo box will auto calibrate the light strips.</p>
+</div>
+<div class="alternating-content-block__card-image-wrap"><picture> <!-- [if IE 9]>
+											<video style="display: none">
+											</video><![endif]--> <!-- [if IE 9]>
+											
+										<![endif]--> <img sizes="453px" class="alternating-content-block__card-image lazyautosizes lazyloaded" src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/454-454_001ebef5-6523-474c-8202-9829a0a7d6fe.jpg?v=1640072799"> </picture></div>
+</div>
+</div>
+<div class="alternating-content-block__block alternating-content-block__block--1 row m-display-none">
+<div class="alternating-content-block__header col-12 col-md-10">
+<h2 class="alternating-content-block__header-title heading-2"></h2>
+<div class="alternating-content-block__header-desc body-copy-1">
+<p> </p>
+</div>
+</div>
+</div>
+<div class="alternating-content-block__block alternating-content-block__block--3 row">
+<div class="alternating-content-block__card col-11 col-sm-12 col-md-10">
+<h1 class="alternating-content-block__card-title heading-5--">Upgraded Lightstrip</h1>
+<div class="alternating-content-block__card-desc body-copy-1">
+<p>The upgraded light strip is now equipped with a special designed silicone cover, enabling the light to shine a larger area due to an illumintion angle shift from 90° to 45°.</p>
+</div>
+<div class="alternating-content-block__card-image-wrap"><picture> <!-- [if IE 9]>
+											<video style="display: none">
+											</video><![endif]--> <!-- [if IE 9]>
+											
+										<![endif]--> <img sizes="453px" class="alternating-content-block__card-image lazyautosizes lazyloaded" src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/454_2d079994-78b4-44b1-a19b-5541e1159dae.jpg?v=1640072764"> </picture></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!--end 块1-->
+<div class="section-component master-component theme--grey">
+<section class="">
+<div class="section-component__container container spacing-responsive-2--padding">
+<div>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="story-component master-component">
+<div class="story spacing-responsive-2 story--right story--image-center story--image-top-mobile">
+<div class="container">
+<div class="row">
+<div class="col-12 col-sm-6 story__image-wrapper">
+<div class="parallax__pin"><picture class="story__picture"> <img sizes="534px" class="story__image img-responsive lazyautosizes lazyloaded" src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/454-_2.jpg?v=1640252751"> </picture></div>
+</div>
+<div class="story__text-wrapper col-12 col-sm-5 offset-sm-1">
+<div class="story__headline headline headline-h2-default">
+<h1 class="headline__title heading-2">Accurate Color Reproduction</h1>
+</div>
+<div class="story__description rich-text-content">
+<p>Neo can process up to 500 pixel dot and apply them to lightstrip with ARGB LED, to ensure the high accuracy of color reproduction in sync mode.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="story-component master-component">
+<div class="story spacing-responsive-2 story--left story--image-center story--image-top-mobile">
+<div class="container">
+<div class="row">
+<div class="col-12 col-sm-6 offset-sm-1 order-sm-last story__image-wrapper">
+<div class="parallax__pin"><picture class="story__picture"> <img sizes="534px" class="story__image img-responsive lazyautosizes lazyloaded" src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/454-454-CEC_942468bf-1aab-441b-953f-8fa8e2eaa4db.jpg?v=1640072859"> </picture></div>
+</div>
+<div class="story__text-wrapper col-12 col-sm-5 order-sm-first">
+<div class="story__headline headline headline-h2-default">
+<h1 class="headline__title heading-2">CEC Enabled</h1>
+</div>
+<div class="story__description rich-text-content">
+<p>Consumer Electronics Control (CEC) Feature. Use only one remote controller to turn on/off TV, Neo box and other HDMI connected devices.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="story-component master-component">
+<div class="story spacing-responsive-2 story--right story--image-center story--image-top-mobile">
+<div class="container">
+<div class="row">
+<div class="col-12 col-sm-6 story__image-wrapper">
+<div class="parallax__pin"><picture class="story__picture"> <img sizes="534px" class="story__image img-responsive lazyautosizes lazyloaded" src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/16-454-454_433e74c0-9bfc-4c05-8abd-2afdf52da33a.jpg?v=1637309248"> </picture></div>
+</div>
+<div class="story__text-wrapper col-12 col-sm-5 offset-sm-1">
+<div class="story__headline headline headline-h2-default">
+<h1 class="headline__title heading-2">Endless Possibilities</h1>
+</div>
+<div class="story__description rich-text-content">
+<p>Connect to a huge range of devices via HDMI. Works with Apple TV, Xbox, PlayStation and Mac &amp; Windows and many more. Just plug in and play.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!--end块2-->
+<div class="section-component master-component theme--grey">
+<section class="">
+<div class="section-component__container container spacing-responsive-2--padding">
+<div>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="whats-in-the-box-component master-component">
+<div class="row whats-in-the-box">
+<div class="col-12 col-sm-5 whats-in-the-box__content">
+<div>
+<h1 class="heading-2">Black Bar Auto Refill</h1>
+<p>Neo equip with auto refill function, automatically compensate the light for the black side of the movie, giving you the perfect home theater atmosphere.</p>
+</div>
+</div>
+<div class="col-12 col-sm-6"><picture> <img sizes="543px" class="whats-in-the-box__image lazyautosizes ls-is-cached lazyloaded" src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/15-454-4540.jpg?v=1638526602"> </picture></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!--end块2-->
+<div class="section-component master-component theme--grey">
+<section class="">
+<div class="section-component__container container spacing-responsive-2--padding">
+<div>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="whats-in-the-box-component master-component">
+<div class="row whats-in-the-box">
+<div class="col-12 col-sm-5 whats-in-the-box__content">
+<div>
+<h1 class="heading-2">What's in the box?</h1>
+<p>1 x Lytmi Neo box</p>
+<p> </p>
+<p>2 x Light Strip Coils</p>
+<p> </p>
+<p>1 x HDMI Cable</p>
+<p> </p>
+<p>1 x AC Power Adapter</p>
+<p> </p>
+<p>10 x Fixing Brackets for light strips</p>
+</div>
+</div>
+<div class="col-12 col-sm-6"><picture> <img sizes="543px" class="whats-in-the-box__image lazyautosizes ls-is-cached lazyloaded" src="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/21-454-454_03e3042d-a3d9-4bc9-840c-9cd94fabbe82.jpg?v=1639737218"> </picture></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!--end块3-->
+<div class="section-component master-component theme--white-white">
+<section class="section-cmp">
+<div class="section-component__container container spacing-responsive-2--padding-top">
+<div>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="title-component master-component title-component--styles-center">
+<h1 class="title heading-1">Expand Your Smart Home with Neo</h1>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!--下面的轮播-->
+<div class="section-component master-component theme--white-white">
+<section class="">
+<div class="section-component__container--fluid container--fluid spacing-responsive-2--padding-top no-gutter">
+<div>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="carousel-component carousel">
+<div>
+<div class="swiper-container carousel">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<div class="hotspot-slide-component master-component">
+<div class="slide">
+<div class="hotspot-slide">
+<picture class="hotspot-slide__picture"> <source media="(min-width: 1281px)" srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/20-1680-944.jpg"> <source media="(min-width: 1025px)" srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/1280.jpg"> <source media="(min-width: 769px)" srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/1024.jpg"> <source media="(min-width: 601px)" srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/768.jpg"> <source media="(min-width: 401px)" srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/600.jpg"> <source media="(max-width: 400px)" srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/400.jpg"> <img class="hotspot-slide__image" alt="Hotspot tv desert" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></source></source></source></picture>
+<div class="hotspot-slide__area">
+<div>
+<div style="top: 76%; left: 99%;" class="hotspot hotspot--l">
+<div class="hotspot__dot">
+<p class="hotspot__text body-copy-1 hotspot__text--top-left"><span> Want to control your Neo box with your smartphone? Install Lytmi App to and set it up to your Neo box. </span></p>
+</div>
+</div>
+</div>
+<div>
+<div style="top: 60%; left: 70%;" class="hotspot hotspot--s">
+<div class="hotspot__dot">
+<p class="hotspot__text body-copy-1 hotspot__text--top-left"><span> Want to control your Neo box with your smartphone? Install Lytmi App to and set it up to your Neo box. </span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="hotspot-slide-component master-component">
+<div class="slide">
+<div class="hotspot-slide">
+<picture class="hotspot-slide__picture"> <source media="(min-width: 1281px)" srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/20.1-1680-944.jpg"> <source media="(min-width: 1025px)" srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/1280-719.jpg"> <source media="(min-width: 769px)" srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/1024-575.jpg"> <source media="(min-width: 601px)" srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/768-431.jpg"> <source media="(min-width: 401px)" srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/600-800.jpg"> <source media="(max-width: 400px)" srcset="https://cdn.shopify.com/s/files/1/0586/8273/6817/files/400-533.jpg"> <img class="hotspot-slide__image" alt="Hotspot tv desert" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></source></source></source></picture>
+<div class="hotspot-slide__area">
+<div>
+<div style="top: 76%; left: 99%;" class="hotspot hotspot--l">
+<div class="hotspot__dot">
+<p class="hotspot__text body-copy-1 hotspot__text--top-left"><span> Want to control your Neo box with your smartphone? Install Lytmi App to and set it up to your Neo box. </span></p>
+</div>
+</div>
+</div>
+<div>
+<div style="top: 60%; left: 70%;" class="hotspot hotspot--s">
+<div class="hotspot__dot">
+<p class="hotspot__text body-copy-1 hotspot__text--top-left"><span> Want to control your Neo box with your smartphone? Install Lytmi App to and set it up to your Neo box. </span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-pagination"></div>
+<div class="swiper-button swiper-button--prev"><svg viewbox="0 0 32 32" class="icon icon-leftwards icon--lg"> <path d="M10.293,15.293 L14.293,11.293 C14.488,11.098 14.744,11 15,11 C15.256,11 15.512,11.098 15.707,11.293 C16.098,11.684 16.098,12.316 15.707,12.707 L13.414,15 L21,15 C21.553,15 22,15.447 22,16 C22,16.553 21.553,17 21,17 L13.414,17 L15.707,19.293 C16.098,19.684 16.098,20.316 15.707,20.707 C15.316,21.098 14.684,21.098 14.293,20.707 L10.293,16.707 C9.902,16.316 9.902,15.684 10.293,15.293 M16,28 C22.627,28 28,22.627 28,16 C28,9.373 22.627,4 16,4 C9.373,4 4,9.373 4,16 C4,22.627 9.373,28 16,28"> </path> </svg></div>
+<div class="swiper-button swiper-button--next"><svg viewbox="0 0 32 32" class="icon icon-rightwards icon--lg"> <path d="M21.707,16.707 L17.707,20.707 C17.512,20.902 17.256,21 17,21 C16.744,21 16.488,20.902 16.293,20.707 C15.902,20.316 15.902,19.684 16.293,19.293 L18.586,17 L11,17 C10.447,17 10,16.553 10,16 C10,15.447 10.447,15 11,15 L18.586,15 L16.293,12.707 C15.902,12.316 15.902,11.684 16.293,11.293 C16.684,10.902 17.316,10.902 17.707,11.293 L21.707,15.293 C22.098,15.684 22.098,16.316 21.707,16.707 M16,4 C9.373,4 4,9.373 4,16 C4,22.627 9.373,28 16,28 C22.627,28 28,22.627 28,16 C28,9.373 22.627,4 16,4" xmlns="http://www.w3.org/2000/svg"></path> </svg></div>
+<span aria-atomic="true" aria-live="assertive" class="swiper-notification"> </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!----end下面的轮播--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://ilytmi.com/products/6864929423537</id>
+      <title>For 60 inch and below / US</title>
+      <s:price currency="USD">169.00</s:price>
+      <s:sku>LDD12-65-US</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/6864929423537</id>
+      <title>For 60 inch and below / UK(VAT Included)</title>
+      <s:price currency="USD">227.00</s:price>
+      <s:sku>LDD12-65-UK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/6864929423537</id>
+      <title>For 60 inch and below / AU</title>
+      <s:price currency="USD">169.00</s:price>
+      <s:sku>LDD12-65-AU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/6864929423537</id>
+      <title>For 60 inch and below / EU(VAT Included)</title>
+      <s:price currency="USD">214.00</s:price>
+      <s:sku>LDD12-65-EU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/6864929423537</id>
+      <title>For 60 inch and below / Rest of the world</title>
+      <s:price currency="USD">169.00</s:price>
+      <s:sku>LDD12-65-other</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/6864929423537</id>
+      <title>For 61-90 inch / US</title>
+      <s:price currency="USD">189.00</s:price>
+      <s:sku>LDD12-90-US</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/6864929423537</id>
+      <title>For 61-90 inch / UK(VAT Included)</title>
+      <s:price currency="USD">254.00</s:price>
+      <s:sku>LDD12-90-UK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/6864929423537</id>
+      <title>For 61-90 inch / AU</title>
+      <s:price currency="USD">189.00</s:price>
+      <s:sku>LDD12-90-AU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/6864929423537</id>
+      <title>For 61-90 inch / EU(VAT Included)</title>
+      <s:price currency="USD">236.00</s:price>
+      <s:sku>LDD12-90-EU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/6864929423537</id>
+      <title>For 61-90 inch / Rest of the world</title>
+      <s:price currency="USD">189.00</s:price>
+      <s:sku>LDD12-90-other</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/6864929423537</id>
+      <title>For 91-120 inch / US</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku>LDD12-120-US</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/6864929423537</id>
+      <title>For 91-120 inch / UK(VAT Included)</title>
+      <s:price currency="USD">267.00</s:price>
+      <s:sku>LDD12-120-UK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/6864929423537</id>
+      <title>For 91-120 inch / AU</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku>LDD12-120-AU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/6864929423537</id>
+      <title>For 91-120 inch / EU(VAT Included)</title>
+      <s:price currency="USD">247.00</s:price>
+      <s:sku>LDD12-120-EU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ilytmi.com/products/6864929423537</id>
+      <title>For 91-120 inch / Rest of the world</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku>LDD12-120-other</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
